@@ -21,7 +21,8 @@ It is also a good home/gym workout generator
 ## Stack
 - java
 - microservices spring boot
-  <br><a href="https://github.com/kqlqk/BeHealthy_Gateway">Gateway</a> <br/>
+  <br><a href="https://github.com/kqlqk/BeHealthy_Gateway">Gateway</a>
+  <br><a href="https://github.com/kqlqk/BeHealthy_AuthenticationService">Authentication service</a> <br/>
 - spring mvc
 - spring data (will be)
 - spring security (will be)
