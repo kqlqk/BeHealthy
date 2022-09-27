@@ -28,5 +28,7 @@ It is also a good home/gym workout generator
 - spring mvc
 - spring data
 - spring security
+- spring cloud eureka
+- spring cloud openfeign
 - postgresql
 - jenkins (ci/cd)
