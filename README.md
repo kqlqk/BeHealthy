@@ -25,10 +25,11 @@ It is also a good home/gym workout generator
   <br><a href="https://github.com/kqlqk/BeHealthy_Gateway">Gateway</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_AuthenticationService">Authentication service</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_KcalCounterService">Kcal counter service</a>
+  <br><a href="https://github.com/kqlqk/BeHealthy_WorkoutService">Workout service</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_EurekaServer">Eureka server</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_ConfigServer">Cloud config server</a><br/>
 - spring mvc
-- spring data
+- spring data jpa
 - spring security
 - spring cloud eureka
 - spring cloud openfeign
