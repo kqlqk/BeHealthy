@@ -20,19 +20,17 @@ It is also a good home/gym workout generator
 
 ## Stack
 - java
-- microservices spring boot:
-  <br><a href="https://github.com/kqlqk/BeHealthy_View">View</a>
+- parts:
+  <br><a href="https://github.com/kqlqk/BeHealthy_TgBot">Telegram bot</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_Gateway">Gateway</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_AuthenticationService">Authentication service</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_ConditionService">Condition service</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_WorkoutService">Workout service</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_EurekaServer">Eureka server</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_ConfigServer">Cloud config server</a><br/>
+- spring boot
 - spring mvc
-- spring data jpa
+- spring data
 - spring security
-- spring cloud eureka
-- spring cloud openfeign
-- spring cloud config
+- spring cloud
 - postgresql
-- jenkins (ci/cd)
