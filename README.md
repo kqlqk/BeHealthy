@@ -12,8 +12,7 @@
 </div>
 
 ## About The Project
-The BeHealthy app can help you with your daily calorie counting.
-It is also a good home/gym workout generator
+The BeHealthy app can help you with your daily calorie counting, tracking your body condition, and it's also a good home/gym workout generator.
 
 <b>Devs:</b> <a href="https://github.com/kqlqk">Kqlqk</a> <br/>
 <b>Current version:</b> - <br/>
