@@ -26,7 +26,7 @@ The BeHealthy app can help you with your daily calorie counting, tracking your b
   <br><a href="https://github.com/kqlqk/BeHealthy_ConditionService">Condition service</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_WorkoutService">Workout service</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_EurekaServer">Eureka server</a>
-  <br><a href="https://github.com/kqlqk/BeHealthy_ConfigServer">Cloud config server</a><br/>
+  <br><a href="https://github.com/kqlqk/BeHealthy_ConfigServer">Cloud config server</a>
   <br><a href="https://github.com/kqlqk/BeHealthy_ParentPom">Parent POM (not app)</a><br/>
 - spring boot
 - spring mvc
